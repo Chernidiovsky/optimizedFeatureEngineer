@@ -1,3 +1,5 @@
+pendulum
+xgboost
 pymysql
 sqlalchemy
 joblib
